@@ -13,15 +13,15 @@
 
   </p>
 
-<img alt="go" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" height="300">
+<img alt="go" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" height="200">
 </div>
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Variables and Constants
-- [ ] Data Types and Type conversions
+- [x] Variables, Constants, Naming conventions and Scopes
+- [ ] Basic Data Types and Type conversions
 - [ ] Arrays and Slices
 - [ ] Map and Structs
 - [ ] If and Switch
@@ -31,5 +31,4 @@
 - [ ] Functions
 - [ ] Interfaces
 - [ ] Goroutines
-- [ ] Channels 
-
+- [ ] Channels
