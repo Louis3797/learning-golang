@@ -1,25 +1,23 @@
 <div id="top"></div>
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
+<img alt="go" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" height="100">
 
-  <h1 align="center">Golang</h1>
- 
   <p align="center">
     A repository to learn <a href="https://go.dev/">Golang</a>
 
   </p>
 
-<img alt="go" src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" height="200">
+
 </div>
 
 <!-- Usage -->
-## Usage 
+## Usage
 
-Each file covers one or more topics of Golang. 
+Each file covers one or more topics of Golang.
 To see the output of each file run ```go run <filename>.go```
 
 <!-- ROADMAP -->
@@ -38,5 +36,3 @@ To see the output of each file run ```go run <filename>.go```
 - [ ] Interfaces
 - [ ] Goroutines
 - [ ] Channels
-
-
