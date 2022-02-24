@@ -28,7 +28,7 @@ To see the output of each file run ```go run <filename>.go```
 - [x] More about Constants and Iota
 - [x] Arrays and Slices
 - [x] Map and Structs
-- [ ] If and Switch
+- [x] If and Switch
 - [ ] Loops
 - [ ] Defer, Panic and Recover
 - [ ] Pointer
