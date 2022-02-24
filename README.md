@@ -27,7 +27,7 @@ To see the output of each file run ```go run <filename>.go```
 - [x] Basic Data Types and Type conversions
 - [x] More about Constants and Iota
 - [x] Arrays and Slices
-- [ ] Map and Structs
+- [x] Map and Structs
 - [ ] If and Switch
 - [ ] Loops
 - [ ] Defer, Panic and Recover
